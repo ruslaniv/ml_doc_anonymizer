@@ -1,0 +1,4 @@
+-r ./base.txt
+
+locust==2.12.1
+pytest==7.1.3
