@@ -251,3 +251,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+
+notebooks/.virtual_documents/
+scratch??_*_rsln.*
